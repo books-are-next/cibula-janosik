@@ -20,11 +20,11 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brBefore": "MLP_text\nMLP_text_bez1radku_-12-0-\nMLP_text_bez1radku \nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku_-I- ",
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "em": "MLP_dopis_-I-\nMLP_dopis_bez1radku_-I-\nMLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
       "ignore": ""
@@ -105,8 +105,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "1"
+            "title": "1",
+            "children": []
           },
           {
             "filename": "janosik_007.md",
@@ -118,8 +118,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "2"
+            "title": "2",
+            "children": []
           },
           {
             "filename": "janosik_008.md",
@@ -131,8 +131,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "3"
+            "title": "3",
+            "children": []
           },
           {
             "filename": "janosik_009.md",
@@ -144,8 +144,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "4"
+            "title": "4",
+            "children": []
           },
           {
             "filename": "janosik_010.md",
@@ -157,8 +157,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "5"
+            "title": "5",
+            "children": []
           },
           {
             "filename": "janosik_011.md",
@@ -170,8 +170,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "6"
+            "title": "6",
+            "children": []
           },
           {
             "filename": "janosik_012.md",
@@ -183,8 +183,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "7"
+            "title": "7",
+            "children": []
           },
           {
             "filename": "janosik_013.md",
@@ -196,8 +196,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "8"
+            "title": "8",
+            "children": []
           },
           {
             "filename": "janosik_014.md",
@@ -209,8 +209,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "9"
+            "title": "9",
+            "children": []
           },
           {
             "filename": "janosik_015.md",
@@ -222,8 +222,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "10"
+            "title": "10",
+            "children": []
           },
           {
             "filename": "janosik_016.md",
@@ -235,8 +235,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "11"
+            "title": "11",
+            "children": []
           },
           {
             "filename": "janosik_017.md",
@@ -248,8 +248,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "12"
+            "title": "12",
+            "children": []
           },
           {
             "filename": "janosik_018.md",
@@ -261,8 +261,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "13"
+            "title": "13",
+            "children": []
           },
           {
             "filename": "janosik_019.md",
@@ -274,8 +274,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "14"
+            "title": "14",
+            "children": []
           },
           {
             "filename": "janosik_020.md",
@@ -287,8 +287,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "15"
+            "title": "15",
+            "children": []
           },
           {
             "filename": "janosik_021.md",
@@ -300,8 +300,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "16"
+            "title": "16",
+            "children": []
           },
           {
             "filename": "janosik_022.md",
@@ -313,8 +313,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "17"
+            "title": "17",
+            "children": []
           },
           {
             "filename": "janosik_023.md",
@@ -326,8 +326,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "18"
+            "title": "18",
+            "children": []
           },
           {
             "filename": "janosik_024.md",
@@ -339,8 +339,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "19"
+            "title": "19",
+            "children": []
           },
           {
             "filename": "janosik_025.md",
@@ -352,8 +352,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "20"
+            "title": "20",
+            "children": []
           },
           {
             "filename": "janosik_026.md",
@@ -365,8 +365,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "21"
+            "title": "21",
+            "children": []
           },
           {
             "filename": "janosik_027.md",
@@ -378,8 +378,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "22"
+            "title": "22",
+            "children": []
           },
           {
             "filename": "janosik_028.md",
@@ -391,8 +391,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "23"
+            "title": "23",
+            "children": []
           },
           {
             "filename": "janosik_029.md",
@@ -404,8 +404,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "24"
+            "title": "24",
+            "children": []
           },
           {
             "filename": "janosik_030.md",
@@ -417,8 +417,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "25"
+            "title": "25",
+            "children": []
           },
           {
             "filename": "janosik_031.md",
@@ -430,8 +430,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Doslov"
+            "title": "Doslov",
+            "children": []
           },
           {
             "filename": "janosik_032.md",
@@ -443,8 +443,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Základní prameny"
+            "title": "Základní prameny",
+            "children": []
           },
           {
             "filename": "janosik_033.md",
@@ -743,6 +743,6 @@
       "user": "books-are-next",
       "repo": "cibula-janosik"
     },
-    "generatedAt": 1650795854031
+    "generatedAt": 1650797587299
   }
 }
