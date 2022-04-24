@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Jánošík</text>
+  </docTitle>
+  <docAuthor>
+    <text>Václav Cibula</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>1</text>
+      </navLabel>
+      <content src="Text/janosik_006.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>2</text>
+      </navLabel>
+      <content src="Text/janosik_007.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>3</text>
+      </navLabel>
+      <content src="Text/janosik_008.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>4</text>
+      </navLabel>
+      <content src="Text/janosik_009.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>5</text>
+      </navLabel>
+      <content src="Text/janosik_010.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>6</text>
+      </navLabel>
+      <content src="Text/janosik_011.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>7</text>
+      </navLabel>
+      <content src="Text/janosik_012.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>8</text>
+      </navLabel>
+      <content src="Text/janosik_013.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>9</text>
+      </navLabel>
+      <content src="Text/janosik_014.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>10</text>
+      </navLabel>
+      <content src="Text/janosik_015.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>11</text>
+      </navLabel>
+      <content src="Text/janosik_016.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>12</text>
+      </navLabel>
+      <content src="Text/janosik_017.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>13</text>
+      </navLabel>
+      <content src="Text/janosik_018.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>14</text>
+      </navLabel>
+      <content src="Text/janosik_019.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>15</text>
+      </navLabel>
+      <content src="Text/janosik_020.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>16</text>
+      </navLabel>
+      <content src="Text/janosik_021.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>17</text>
+      </navLabel>
+      <content src="Text/janosik_022.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>18</text>
+      </navLabel>
+      <content src="Text/janosik_023.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>19</text>
+      </navLabel>
+      <content src="Text/janosik_024.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>20</text>
+      </navLabel>
+      <content src="Text/janosik_025.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>21</text>
+      </navLabel>
+      <content src="Text/janosik_026.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>22</text>
+      </navLabel>
+      <content src="Text/janosik_027.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navpoint23" playOrder="23">
+      <navLabel>
+        <text>23</text>
+      </navLabel>
+      <content src="Text/janosik_028.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navpoint24" playOrder="24">
+      <navLabel>
+        <text>24</text>
+      </navLabel>
+      <content src="Text/janosik_029.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navpoint25" playOrder="25">
+      <navLabel>
+        <text>25</text>
+      </navLabel>
+      <content src="Text/janosik_030.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navpoint26" playOrder="26">
+      <navLabel>
+        <text>Doslov</text>
+      </navLabel>
+      <content src="Text/janosik_031.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navpoint27" playOrder="27">
+      <navLabel>
+        <text>Základní prameny</text>
+      </navLabel>
+      <content src="Text/janosik_032.xhtml#_idParaDest-27"/>
+    </navPoint>
+  </navMap>
+</ncx>
