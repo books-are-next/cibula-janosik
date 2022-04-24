@@ -1,1 +1,749 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Jánošík",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Václav Cibula",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-02T00:00:00.000Z",
+      "isbn": "978-80-274-1923-4"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "janosik_001.md",
+            "xhtml": "janosik_001.xhtml",
+            "id": 0,
+            "role": "cover",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "janosik_002.md",
+            "xhtml": "janosik_002.xhtml",
+            "id": 1,
+            "role": "break",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "janosik_003.md",
+            "xhtml": "janosik_003.xhtml",
+            "id": 2,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "janosik_004.md",
+            "xhtml": "janosik_004.xhtml",
+            "id": 3,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "janosik_005.md",
+            "xhtml": "janosik_005.xhtml",
+            "id": 4,
+            "role": "break",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "janosik_006.md",
+            "xhtml": "janosik_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "1"
+          },
+          {
+            "filename": "janosik_007.md",
+            "xhtml": "janosik_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "2"
+          },
+          {
+            "filename": "janosik_008.md",
+            "xhtml": "janosik_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "3"
+          },
+          {
+            "filename": "janosik_009.md",
+            "xhtml": "janosik_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "4"
+          },
+          {
+            "filename": "janosik_010.md",
+            "xhtml": "janosik_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "5"
+          },
+          {
+            "filename": "janosik_011.md",
+            "xhtml": "janosik_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "6"
+          },
+          {
+            "filename": "janosik_012.md",
+            "xhtml": "janosik_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "7"
+          },
+          {
+            "filename": "janosik_013.md",
+            "xhtml": "janosik_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "8"
+          },
+          {
+            "filename": "janosik_014.md",
+            "xhtml": "janosik_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "9"
+          },
+          {
+            "filename": "janosik_015.md",
+            "xhtml": "janosik_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "10"
+          },
+          {
+            "filename": "janosik_016.md",
+            "xhtml": "janosik_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "11"
+          },
+          {
+            "filename": "janosik_017.md",
+            "xhtml": "janosik_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "12"
+          },
+          {
+            "filename": "janosik_018.md",
+            "xhtml": "janosik_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "13"
+          },
+          {
+            "filename": "janosik_019.md",
+            "xhtml": "janosik_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "14"
+          },
+          {
+            "filename": "janosik_020.md",
+            "xhtml": "janosik_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "15"
+          },
+          {
+            "filename": "janosik_021.md",
+            "xhtml": "janosik_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "16"
+          },
+          {
+            "filename": "janosik_022.md",
+            "xhtml": "janosik_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "17"
+          },
+          {
+            "filename": "janosik_023.md",
+            "xhtml": "janosik_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "18"
+          },
+          {
+            "filename": "janosik_024.md",
+            "xhtml": "janosik_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "19"
+          },
+          {
+            "filename": "janosik_025.md",
+            "xhtml": "janosik_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "20"
+          },
+          {
+            "filename": "janosik_026.md",
+            "xhtml": "janosik_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "21"
+          },
+          {
+            "filename": "janosik_027.md",
+            "xhtml": "janosik_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "22"
+          },
+          {
+            "filename": "janosik_028.md",
+            "xhtml": "janosik_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "23"
+          },
+          {
+            "filename": "janosik_029.md",
+            "xhtml": "janosik_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "24"
+          },
+          {
+            "filename": "janosik_030.md",
+            "xhtml": "janosik_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "25"
+          },
+          {
+            "filename": "janosik_031.md",
+            "xhtml": "janosik_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Doslov"
+          },
+          {
+            "filename": "janosik_032.md",
+            "xhtml": "janosik_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": [],
+            "title": "Základní prameny"
+          },
+          {
+            "filename": "janosik_033.md",
+            "xhtml": "janosik_033.xhtml",
+            "id": 32,
+            "role": "colophon",
+            "listType": "plain",
+            "inToc": false,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Jánošík",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "Václav Cibula",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2021-12-02T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_001.md",
+        "xhtml": "janosik_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_002.md",
+        "xhtml": "janosik_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_003.md",
+        "xhtml": "janosik_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_004.md",
+        "xhtml": "janosik_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_005.md",
+        "xhtml": "janosik_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_006.md",
+        "xhtml": "janosik_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_007.md",
+        "xhtml": "janosik_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_008.md",
+        "xhtml": "janosik_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_009.md",
+        "xhtml": "janosik_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_010.md",
+        "xhtml": "janosik_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_011.md",
+        "xhtml": "janosik_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_012.md",
+        "xhtml": "janosik_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_013.md",
+        "xhtml": "janosik_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_014.md",
+        "xhtml": "janosik_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_015.md",
+        "xhtml": "janosik_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_016.md",
+        "xhtml": "janosik_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_017.md",
+        "xhtml": "janosik_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_018.md",
+        "xhtml": "janosik_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_019.md",
+        "xhtml": "janosik_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_020.md",
+        "xhtml": "janosik_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_021.md",
+        "xhtml": "janosik_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_022.md",
+        "xhtml": "janosik_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_023.md",
+        "xhtml": "janosik_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_024.md",
+        "xhtml": "janosik_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_025.md",
+        "xhtml": "janosik_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_026.md",
+        "xhtml": "janosik_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_027.md",
+        "xhtml": "janosik_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_028.md",
+        "xhtml": "janosik_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_029.md",
+        "xhtml": "janosik_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_030.md",
+        "xhtml": "janosik_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_031.md",
+        "xhtml": "janosik_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_032.md",
+        "xhtml": "janosik_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "janosik_033.md",
+        "xhtml": "janosik_033.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_janosik_cibula.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "CharOverride-1",
+      "CharOverride-2",
+      "HorizontalRule-1",
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_-I-",
+      "MLP_dopis_bez1radku_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_paragraf",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_pozn_pod_carou",
+      "MLP_seznam_-0-0-",
+      "MLP_text",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_uroven2_kapitola",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "ParaOverride-4",
+      "Z-kladn--textový-r-meček",
+      "_idFootnote",
+      "_idFootnoteAnchor",
+      "_idFootnoteLink",
+      "_idFootnotes",
+      "_idGenCharOverride-1",
+      "_idGenColorInherit",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectAttribute-3",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "cibula-janosik"
+    },
+    "generatedAt": 1650795074713
+  }
+}
