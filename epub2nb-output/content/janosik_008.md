@@ -1,8 +1,7 @@
 ---
+title: '3'
 contentType: prose
 ---
-
-3
 
   
 

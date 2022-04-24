@@ -1,8 +1,7 @@
 ---
+title: '24'
 contentType: prose
 ---
-
-24
 
   
 

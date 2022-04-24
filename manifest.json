@@ -1,0 +1,629 @@
+{
+  "author": "Václav Cibula",
+  "contenttype": "prose",
+  "identifier": "cibula-janosik-3ecee4c",
+  "isbn": "978-80-274-1923-4",
+  "languagecode": "cs",
+  "modified": "2021-12-02T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Jánošík",
+  "revision": "3ecee4c",
+  "generatedAt": {
+    "date": "Sun Apr 24 2022 10:25:04 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1650795904264
+  },
+  "documents": [
+    {
+      "title": "Jánošík",
+      "file": "janosik_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "janosik_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jánošík",
+      "file": "janosik_005.html",
+      "words": 84,
+      "chars": 552,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 1,
+      "prev": "janosik_002.html",
+      "next": "janosik_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1 • Jánošík",
+      "file": "janosik_006.html",
+      "words": 1460,
+      "chars": 8476,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 2,
+      "prev": "janosik_005.html",
+      "next": "janosik_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2 • Jánošík",
+      "file": "janosik_007.html",
+      "words": 1460,
+      "chars": 8454,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 3,
+      "prev": "janosik_006.html",
+      "next": "janosik_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3 • Jánošík",
+      "file": "janosik_008.html",
+      "words": 1891,
+      "chars": 10899,
+      "ideas": 63,
+      "role": "chapter",
+      "order": 4,
+      "prev": "janosik_007.html",
+      "next": "janosik_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4 • Jánošík",
+      "file": "janosik_009.html",
+      "words": 2397,
+      "chars": 14001,
+      "ideas": 99,
+      "role": "chapter",
+      "order": 5,
+      "prev": "janosik_008.html",
+      "next": "janosik_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "5 • Jánošík",
+      "file": "janosik_010.html",
+      "words": 3242,
+      "chars": 19508,
+      "ideas": 157,
+      "role": "chapter",
+      "order": 6,
+      "prev": "janosik_009.html",
+      "next": "janosik_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "5",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "6 • Jánošík",
+      "file": "janosik_011.html",
+      "words": 2421,
+      "chars": 13937,
+      "ideas": 88,
+      "role": "chapter",
+      "order": 7,
+      "prev": "janosik_010.html",
+      "next": "janosik_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "6",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7 • Jánošík",
+      "file": "janosik_012.html",
+      "words": 1464,
+      "chars": 8696,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 8,
+      "prev": "janosik_011.html",
+      "next": "janosik_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8 • Jánošík",
+      "file": "janosik_013.html",
+      "words": 2053,
+      "chars": 12147,
+      "ideas": 88,
+      "role": "chapter",
+      "order": 9,
+      "prev": "janosik_012.html",
+      "next": "janosik_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9 • Jánošík",
+      "file": "janosik_014.html",
+      "words": 1526,
+      "chars": 9081,
+      "ideas": 83,
+      "role": "chapter",
+      "order": 10,
+      "prev": "janosik_013.html",
+      "next": "janosik_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10 • Jánošík",
+      "file": "janosik_015.html",
+      "words": 2919,
+      "chars": 17201,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 11,
+      "prev": "janosik_014.html",
+      "next": "janosik_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11 • Jánošík",
+      "file": "janosik_016.html",
+      "words": 2695,
+      "chars": 15825,
+      "ideas": 164,
+      "role": "chapter",
+      "order": 12,
+      "prev": "janosik_015.html",
+      "next": "janosik_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12 • Jánošík",
+      "file": "janosik_017.html",
+      "words": 2408,
+      "chars": 13980,
+      "ideas": 108,
+      "role": "chapter",
+      "order": 13,
+      "prev": "janosik_016.html",
+      "next": "janosik_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "13 • Jánošík",
+      "file": "janosik_018.html",
+      "words": 1944,
+      "chars": 11399,
+      "ideas": 113,
+      "role": "chapter",
+      "order": 14,
+      "prev": "janosik_017.html",
+      "next": "janosik_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "13",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "14 • Jánošík",
+      "file": "janosik_019.html",
+      "words": 3138,
+      "chars": 18789,
+      "ideas": 176,
+      "role": "chapter",
+      "order": 15,
+      "prev": "janosik_018.html",
+      "next": "janosik_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "14",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "15 • Jánošík",
+      "file": "janosik_020.html",
+      "words": 2637,
+      "chars": 15577,
+      "ideas": 119,
+      "role": "chapter",
+      "order": 16,
+      "prev": "janosik_019.html",
+      "next": "janosik_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "15",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "16 • Jánošík",
+      "file": "janosik_021.html",
+      "words": 1998,
+      "chars": 11890,
+      "ideas": 101,
+      "role": "chapter",
+      "order": 17,
+      "prev": "janosik_020.html",
+      "next": "janosik_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "16",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "17 • Jánošík",
+      "file": "janosik_022.html",
+      "words": 2252,
+      "chars": 13643,
+      "ideas": 138,
+      "role": "chapter",
+      "order": 18,
+      "prev": "janosik_021.html",
+      "next": "janosik_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "17",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "18 • Jánošík",
+      "file": "janosik_023.html",
+      "words": 2918,
+      "chars": 17710,
+      "ideas": 140,
+      "role": "chapter",
+      "order": 19,
+      "prev": "janosik_022.html",
+      "next": "janosik_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "18",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "19 • Jánošík",
+      "file": "janosik_024.html",
+      "words": 1988,
+      "chars": 12248,
+      "ideas": 102,
+      "role": "chapter",
+      "order": 20,
+      "prev": "janosik_023.html",
+      "next": "janosik_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "19",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "20 • Jánošík",
+      "file": "janosik_025.html",
+      "words": 2707,
+      "chars": 16479,
+      "ideas": 182,
+      "role": "chapter",
+      "order": 21,
+      "prev": "janosik_024.html",
+      "next": "janosik_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "20",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "21 • Jánošík",
+      "file": "janosik_026.html",
+      "words": 1146,
+      "chars": 6841,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 22,
+      "prev": "janosik_025.html",
+      "next": "janosik_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "21",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "22 • Jánošík",
+      "file": "janosik_027.html",
+      "words": 2732,
+      "chars": 16103,
+      "ideas": 143,
+      "role": "chapter",
+      "order": 23,
+      "prev": "janosik_026.html",
+      "next": "janosik_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "22",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "23 • Jánošík",
+      "file": "janosik_028.html",
+      "words": 3237,
+      "chars": 19301,
+      "ideas": 170,
+      "role": "chapter",
+      "order": 24,
+      "prev": "janosik_027.html",
+      "next": "janosik_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "23",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "24 • Jánošík",
+      "file": "janosik_029.html",
+      "words": 6038,
+      "chars": 37269,
+      "ideas": 297,
+      "role": "chapter",
+      "order": 25,
+      "prev": "janosik_028.html",
+      "next": "janosik_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "24",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "25 • Jánošík",
+      "file": "janosik_030.html",
+      "words": 488,
+      "chars": 2910,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 26,
+      "prev": "janosik_029.html",
+      "next": "janosik_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "25",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Doslov • Jánošík",
+      "file": "janosik_031.html",
+      "words": 3197,
+      "chars": 21085,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 27,
+      "prev": "janosik_030.html",
+      "next": "janosik_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Doslov",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Základní prameny • Jánošík",
+      "file": "janosik_032.html",
+      "words": 344,
+      "chars": 2341,
+      "ideas": 26,
+      "role": "chapter",
+      "order": 28,
+      "prev": "janosik_031.html",
+      "next": "colophon.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Základní prameny",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž • Jánošík",
+      "file": "colophon.html",
+      "words": 145,
+      "chars": 942,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
+      "prev": "janosik_032.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 62932,
+      "chars": 377304,
+      "ideas": 3035
+    },
+    "chapters": {
+      "words": 62784,
+      "chars": 376342,
+      "ideas": 3010
+    }
+  }
+}

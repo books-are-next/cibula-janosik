@@ -1,8 +1,7 @@
 ---
+title: Doslov
 contentType: prose
 ---
-
-Doslov
 
   
 

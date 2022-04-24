@@ -1,8 +1,7 @@
 ---
+title: '22'
 contentType: prose
 ---
-
-22
 
   
 

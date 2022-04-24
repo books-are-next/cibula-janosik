@@ -1,8 +1,7 @@
 ---
+title: '20'
 contentType: prose
 ---
-
-20
 
   
 
