@@ -1,8 +1,7 @@
 ---
+title: '17'
 contentType: prose
 ---
-
-17
 
   
 

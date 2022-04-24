@@ -1,8 +1,7 @@
 ---
+title: '8'
 contentType: prose
 ---
-
-8
 
   
 

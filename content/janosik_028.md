@@ -1,8 +1,7 @@
 ---
+title: '23'
 contentType: prose
 ---
-
-23
 
 Přešli Královu holi a na palouku mezi skálami si rozdělali u malého pramene oheň. Noc už byla v té výšce studená, nechali oheň hořet až do rána. Když se rozednilo, sestoupili do údolí na severní stranu a podle Váhu se pustili k Hóvaldům.
 

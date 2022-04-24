@@ -1,8 +1,7 @@
 ---
+title: '12'
 contentType: prose
 ---
-
-12
 
   
 

@@ -1,8 +1,7 @@
 ---
+title: Základní prameny
 contentType: prose
 ---
-
-Základní prameny
 
 — Archívy: Štátny archív v Bytči (Fond Panstwo Gbelany El I, fasc. 19, č. 1a – Urbár hradného panstwa Strečno 1662), Štátny archív v Bratislavě (Protocollum I. Comitatus Liptoviensis ab anno 1710 usque 1717), Štátny slovenský ústredný archív v Bratislavě (Fond Ústředny archív rodu Erdódy sign Lad. 43, fasc. 8, no. 1, Urbár hradného panstva Strečno 1712), Okresný archív města Března nad Hronom, Štátny archív v Trenčíně, Štátny archív v Žilině (varínská farní matrika)
 
