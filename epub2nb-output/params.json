@@ -51,7 +51,7 @@
             "filename": "janosik_002.md",
             "xhtml": "janosik_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -743,6 +743,6 @@
       "user": "books-are-next",
       "repo": "cibula-janosik"
     },
-    "generatedAt": 1650797587299
+    "generatedAt": 1652351631421
   }
 }

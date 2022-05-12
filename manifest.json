@@ -1,21 +1,54 @@
 {
-  "author": "Václav Cibula",
-  "contenttype": "prose",
-  "identifier": "cibula-janosik-f419746",
-  "isbn": "978-80-274-1923-4",
-  "languagecode": "cs",
-  "modified": "2021-12-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Jánošík",
-  "revision": "f419746",
+  "author": "Václav Cibula",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "cibula-janosik-ec24467",
+  "revision": "ec24467",
+  "readingOrder": [
+    "promo.html",
+    "janosik_005.html",
+    "janosik_006.html",
+    "janosik_007.html",
+    "janosik_008.html",
+    "janosik_009.html",
+    "janosik_010.html",
+    "janosik_011.html",
+    "janosik_012.html",
+    "janosik_013.html",
+    "janosik_014.html",
+    "janosik_015.html",
+    "janosik_016.html",
+    "janosik_017.html",
+    "janosik_018.html",
+    "janosik_019.html",
+    "janosik_020.html",
+    "janosik_021.html",
+    "janosik_022.html",
+    "janosik_023.html",
+    "janosik_024.html",
+    "janosik_025.html",
+    "janosik_026.html",
+    "janosik_027.html",
+    "janosik_028.html",
+    "janosik_029.html",
+    "janosik_030.html",
+    "janosik_031.html",
+    "janosik_032.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Apr 24 2022 10:53:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1650797634238
+    "date": "Thu May 12 2022 10:43:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352209131
   },
   "documents": [
     {
-      "title": "Jánošík",
-      "file": "janosik_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +56,7 @@
       "order": 0,
       "prev": null,
       "next": "janosik_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Jánošík",
@@ -41,7 +66,7 @@
       "ideas": 4,
       "role": "chapter",
       "order": 1,
-      "prev": "janosik_002.html",
+      "prev": "promo.html",
       "next": "janosik_006.html",
       "toc": [
         {
@@ -54,7 +79,7 @@
       ]
     },
     {
-      "title": "1 • Jánošík",
+      "title": "1",
       "file": "janosik_006.html",
       "words": 1460,
       "chars": 8476,
@@ -74,7 +99,7 @@
       ]
     },
     {
-      "title": "2 • Jánošík",
+      "title": "2",
       "file": "janosik_007.html",
       "words": 1460,
       "chars": 8454,
@@ -94,7 +119,7 @@
       ]
     },
     {
-      "title": "3 • Jánošík",
+      "title": "3",
       "file": "janosik_008.html",
       "words": 1891,
       "chars": 10899,
@@ -114,7 +139,7 @@
       ]
     },
     {
-      "title": "4 • Jánošík",
+      "title": "4",
       "file": "janosik_009.html",
       "words": 2397,
       "chars": 14001,
@@ -134,7 +159,7 @@
       ]
     },
     {
-      "title": "5 • Jánošík",
+      "title": "5",
       "file": "janosik_010.html",
       "words": 3242,
       "chars": 19508,
@@ -154,7 +179,7 @@
       ]
     },
     {
-      "title": "6 • Jánošík",
+      "title": "6",
       "file": "janosik_011.html",
       "words": 2421,
       "chars": 13937,
@@ -174,7 +199,7 @@
       ]
     },
     {
-      "title": "7 • Jánošík",
+      "title": "7",
       "file": "janosik_012.html",
       "words": 1464,
       "chars": 8696,
@@ -194,7 +219,7 @@
       ]
     },
     {
-      "title": "8 • Jánošík",
+      "title": "8",
       "file": "janosik_013.html",
       "words": 2053,
       "chars": 12147,
@@ -214,7 +239,7 @@
       ]
     },
     {
-      "title": "9 • Jánošík",
+      "title": "9",
       "file": "janosik_014.html",
       "words": 1526,
       "chars": 9081,
@@ -234,7 +259,7 @@
       ]
     },
     {
-      "title": "10 • Jánošík",
+      "title": "10",
       "file": "janosik_015.html",
       "words": 2919,
       "chars": 17201,
@@ -254,7 +279,7 @@
       ]
     },
     {
-      "title": "11 • Jánošík",
+      "title": "11",
       "file": "janosik_016.html",
       "words": 2695,
       "chars": 15825,
@@ -274,7 +299,7 @@
       ]
     },
     {
-      "title": "12 • Jánošík",
+      "title": "12",
       "file": "janosik_017.html",
       "words": 2408,
       "chars": 13980,
@@ -294,7 +319,7 @@
       ]
     },
     {
-      "title": "13 • Jánošík",
+      "title": "13",
       "file": "janosik_018.html",
       "words": 1944,
       "chars": 11399,
@@ -314,7 +339,7 @@
       ]
     },
     {
-      "title": "14 • Jánošík",
+      "title": "14",
       "file": "janosik_019.html",
       "words": 3138,
       "chars": 18789,
@@ -334,7 +359,7 @@
       ]
     },
     {
-      "title": "15 • Jánošík",
+      "title": "15",
       "file": "janosik_020.html",
       "words": 2637,
       "chars": 15577,
@@ -354,7 +379,7 @@
       ]
     },
     {
-      "title": "16 • Jánošík",
+      "title": "16",
       "file": "janosik_021.html",
       "words": 1998,
       "chars": 11890,
@@ -374,7 +399,7 @@
       ]
     },
     {
-      "title": "17 • Jánošík",
+      "title": "17",
       "file": "janosik_022.html",
       "words": 2252,
       "chars": 13643,
@@ -394,7 +419,7 @@
       ]
     },
     {
-      "title": "18 • Jánošík",
+      "title": "18",
       "file": "janosik_023.html",
       "words": 2918,
       "chars": 17710,
@@ -414,7 +439,7 @@
       ]
     },
     {
-      "title": "19 • Jánošík",
+      "title": "19",
       "file": "janosik_024.html",
       "words": 1988,
       "chars": 12248,
@@ -434,7 +459,7 @@
       ]
     },
     {
-      "title": "20 • Jánošík",
+      "title": "20",
       "file": "janosik_025.html",
       "words": 2707,
       "chars": 16479,
@@ -454,7 +479,7 @@
       ]
     },
     {
-      "title": "21 • Jánošík",
+      "title": "21",
       "file": "janosik_026.html",
       "words": 1146,
       "chars": 6841,
@@ -474,7 +499,7 @@
       ]
     },
     {
-      "title": "22 • Jánošík",
+      "title": "22",
       "file": "janosik_027.html",
       "words": 2732,
       "chars": 16103,
@@ -494,7 +519,7 @@
       ]
     },
     {
-      "title": "23 • Jánošík",
+      "title": "23",
       "file": "janosik_028.html",
       "words": 3237,
       "chars": 19301,
@@ -514,7 +539,7 @@
       ]
     },
     {
-      "title": "24 • Jánošík",
+      "title": "24",
       "file": "janosik_029.html",
       "words": 6038,
       "chars": 37269,
@@ -534,7 +559,7 @@
       ]
     },
     {
-      "title": "25 • Jánošík",
+      "title": "25",
       "file": "janosik_030.html",
       "words": 488,
       "chars": 2910,
@@ -554,7 +579,7 @@
       ]
     },
     {
-      "title": "Doslov • Jánošík",
+      "title": "Doslov",
       "file": "janosik_031.html",
       "words": 3197,
       "chars": 21085,
@@ -574,7 +599,7 @@
       ]
     },
     {
-      "title": "Základní prameny • Jánošík",
+      "title": "Základní prameny",
       "file": "janosik_032.html",
       "words": 344,
       "chars": 2341,
@@ -594,11 +619,11 @@
       ]
     },
     {
-      "title": "Tiráž • Jánošík",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 145,
-      "chars": 942,
-      "ideas": 23,
+      "words": 128,
+      "chars": 812,
+      "ideas": 18,
       "role": "colophon",
       "order": null,
       "prev": "janosik_032.html",
@@ -616,9 +641,9 @@
   ],
   "totals": {
     "all": {
-      "words": 62932,
-      "chars": 377304,
-      "ideas": 3035
+      "words": 62915,
+      "chars": 377174,
+      "ideas": 3030
     },
     "chapters": {
       "words": 62784,
