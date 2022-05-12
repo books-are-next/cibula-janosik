@@ -13,7 +13,7 @@ meta:
   modified: '2021-12-02T00:00:00.000Z'
   isbn: 978-80-274-1923-4
 readingOrder:
-  - janosik_002.html
+  - promo.html
   - janosik_005.html
   - janosik_006.html
   - janosik_007.html
