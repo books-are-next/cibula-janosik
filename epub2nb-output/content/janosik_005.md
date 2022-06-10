@@ -3,14 +3,6 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
-
-  
-
 _Skutečný Juraj Jánošík se lišil od Jánošíka z legendy v mnoha podrobnostech, ale pravda i legenda mají jedno společné: velikost a hrdinství prostého člověka, který se vzepřel proti nespravedli­vému řádu._
 
 _Dávné písně zpívají o Jánošíkově kouzelném opasku a o valašce, která se prosekala přes sedmero zamčených dveří._
