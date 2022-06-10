@@ -3,7 +3,7 @@ title: '23'
 contentType: prose
 ---
 
-  
+<section>
 
 Přešli Královu holi a na palouku mezi skálami si rozdělali u malého pramene oheň. Noc už byla v té výšce studená, nechali oheň hořet až do rána. Když se rozednilo, sestoupili do údolí na severní stranu a podle Váhu se pustili k Hóvaldům.
 
@@ -342,3 +342,5 @@ Blížili se k Mikuláši. Stmívalo se, když dorazili k vranovskému zámku.
 Za Jánošíkem zapadly těžké, železem pobité dveře. Přikovali ho na rukou i na nohou.
 
 Uhorčíka hodili do vedlejšího sklepení a Jánošík slyšel, jak mu kovou řetězy.
+
+</section>

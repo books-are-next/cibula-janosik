@@ -3,6 +3,8 @@ title: '14'
 contentType: prose
 ---
 
+<section>
+
 Jeli celou noc. Přejeli Turec, vyhýbali se dědinám a kastelům. Teprve když vrchy začaly klesat ke Hričovu a k údolí Váhu, který se tu stáčel velkým obloukem, zastavili na malé mýtině, postavili varty a odpočívali. Ještě před prvním svítáním vyrazili dál a pod Kotešovou přebrodili řeku. Utábořili se až vysoko v lesích na druhé straně Váhu.
 
 Někde v údolí pod nimi ležela Bytča. Uhorčík si trochu zavzpomínal, ale potom mávl rukou a zadíval se k nekonečným lesním hřbetům Javorníků.
@@ -352,3 +354,5 @@ Když se ráno Jánošík probudil, Uhorčík byl pryč. Oheň dohasínal, obloh
 Podali si ruce a rozešli se do všech stran.
 
 Brzy zmizeli v lese.
+
+</section>

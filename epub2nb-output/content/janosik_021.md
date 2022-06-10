@@ -3,6 +3,8 @@ title: '16'
 contentType: prose
 ---
 
+<section>
+
 Hladina Váhu se třpytila a leskla ve slunci. Vypadalo to, že se voda vůbec nepohybuje, ale proud tady byl silný a prudký. Strmé skály kolem řeky prozrazovaly hlubinu a voda se řítila bez překážek, jen chvílemi zašuměla nakrátko v prudkém víru, jak narazila při dně na balvany.
 
 Jánošík zamyšleně pozoroval řeku. Sevřené údolí Váhu pod Strečnem jako by ho přitahovalo. Snad to byla i vzpomínka na dávný den, kdy s Matějem Dykošem a stařečkem Merjadem sledovali z protějšího vrchu rozvalení Strečna. Teď už byly zdi nahoře na vysoké skále tiché, kamení zarůstalo břízkami a ostružiním, jen havrani a vrány se občas vznesli z trosek v celých černých hejnech.
@@ -202,3 +204,5 @@ Matěj poslouchal, jak se jeho kamarád prodírá houštím. Potom bylo ticho.
 Zrovna jako tenkrát, pomyslil si Matěj. Seděl na vyvráceném kmeni a měl chuť zůstat tu v olšinách navždycky.
 
 Na nebi bylo hvězd, jako by je rozsypal.
+
+</section>

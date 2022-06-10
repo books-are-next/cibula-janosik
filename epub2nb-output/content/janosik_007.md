@@ -3,6 +3,8 @@ title: '2'
 contentType: prose
 ---
 
+<section>
+
 Martin Jánošík vyšel z chalupy a přimhouřil oči před přívalem světla. Nebe bylo modré, modré bez jediného mráčku, a bílé pláně a svahy kopanic zářily v oslňujícím slunci. Vítr se ztišil, kolem bylo bezvětří a ticho.
 
 Sestupoval úbočím. Včerejší stopy už dávno zavál vítr, jako by tu nikdo nikdy nepřešel, nikdo od začátku světa. Znovu se začal bořit, ale teď se mu šlo lehčeji. Lesy proti němu byly posypány noční sněhovou vichřicí, vysoko nad táhlým hřebenem Púpova, který se zdvíhal přímo od Martinovy chalupy, kroužil pomalu jestřáb. Svahy kopanic s nízkými a ve stráních rozházenými chalupami se leskly oslnivou bělostí čerstvého sněhu.
@@ -82,3 +84,5 @@ Martin mlčel. Nevěděl, co má říct, odpovědět neuměl. Brzy se rozloučil
 Když stoupal od cesty vzhůru na kopanice, bylo skoro poledne, ale mrzlo tak, že sníh pod nohama skřípal. Starý dub pod Krištofíkovou chalupou se roztrhl mrazem po celé délce kmene. Obloha nad horami byla spíš zelená než modrá a neslibovala nic dobrého. Martin se zastavil a naslouchal, neuslyší-li hluboko pod sněhem vodu v potoce, ale voda byla ukutá ledem. Slunce na nebi oranžovělo mrazem, jako by jaro nikdy nemělo přijít.
 
 Martin Jánošík myslel na slova návštěvníka z oravské Polhory. Těžce si povzdechl. A napadlo ho, že bude ještě hůř.
+
+</section>

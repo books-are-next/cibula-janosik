@@ -3,6 +3,8 @@ title: '3'
 contentType: prose
 ---
 
+<section>
+
 Zimy na Kopanicích byly vždycky zlé. Údolím od Tižiny studeně protahovalo a z Kysuckých vrchů smetal vítr celé mraky sněhu. Osamělé chalupy kopaničářů nad Terchovou zapadly sněhem a stezky do údolí zasypaly závěje. Zima byla dlouhá a větrná. V peci se topilo skoro celý den, ale ze škvír mezi trámy, ucpanými mechem a pobitými tenkými šparunky, táhla zima. V době větrných chumelenic býval často na lavici pod oknem nános sněhového prachu. Štěrbinami v oknech, mezi hadry, mechem a ovčími blanami prosakoval jemný sníh.
 
 Otec často brával do světnice ovci nebo kozu, aby bylo dětem tepleji a přivazoval zvířata na noc k virku u dveří. Večer přikryla matka oheň popelem, aby bylo ráno připraveno na podpal.
@@ -126,3 +128,5 @@ Dráb už byl skoro na cestě, která se vinula podle potoka, štval koně přes
 Merjad stál nad svým zničeným políčkem, ruce měl spuštěné podle těla. Stál bez pohnutí a v ruce pořád držel velký srp.
 
 Ďurkovi se svíralo hrdlo. Třásl se hněvem a vztekem, cítil, jak se mu do očí derou slzy a kousl se do rtu, až to zabolelo. Potom se obrátil a úprkem se rozběhl k chalupě ve stráni.
+
+</section>

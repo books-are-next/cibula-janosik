@@ -3,6 +3,8 @@ title: '17'
 contentType: prose
 ---
 
+<section>
+
 Pan Skalka vyhlížel nepokojně okénkem kočáru na řeku a na strmé skalní srázy protějšího břehu. Jel z trenčínské stolice do Ružomberka na hostinu a nevydal se na cestu s prázdnou. Úžiny pod Strečnem ho zneklidňovaly; chystalo se k dešti a mezi skálami bylo už teď krátce po poledni bezmála šero. Voda ve Váhu mu připadala skoro černá, jak se v ní odrážely temné mraky.
 
 Pro jistotu si vzal na cestu dva hajduky, jeden seděl na kozlíku a druhý klusal před kočárem na koni, ale nevypadá to takhle ještě nápadněji? Možná by bylo lepší, kdyby jel sám, bez doprovodu, aspoň by na sebe tak neupozorňoval. Dlouhý špičatý nos se mu ještě víc protáhl, úzké tváře mu pobledly. Kdyby už měli ty prokleté úžiny za sebou! Doby jsou nejisté, všude se potuluje všelijaká cháska lotrovská, člověk aby se bál vytáhnout paty z města. Vojna už dávno skončila, a co se změnilo?
@@ -276,3 +278,5 @@ Oščadnický rychtář Michal Kucharčík řekl správci, když jim ten rozkaz 
 „Z mé vsi nepůjde ani noha. O žádných zbojnících nic nevím a nám v Oščadnici nikdo nezkřivil ani vlásek na hlavě.“
 
 Obrátil se a bez dalších řečí odešel domů.
+
+</section>

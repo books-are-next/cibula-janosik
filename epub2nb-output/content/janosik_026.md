@@ -3,6 +3,8 @@ title: '21'
 contentType: prose
 ---
 
+<section>
+
 Huncaga s Plavčekem unikli svým pronásledovatelům v lesnatých svazích a stržích Holice. Ještě nějakou dobu slyšeli za sebou střelbu, ale byla stále vzdálenější a vzdálenější. Huncaga klel a zuřil.
 
 „Slyšel jsi toho havrana, jak prosil? Že jsou nám napospas, že široko daleko není ani živáčka? A jak se přitom žalostně tvářil! A to věděl, že má za zády batalión hajduků, neřád!“
@@ -106,3 +108,5 @@ Sledovali pozorně cestu, ale viděli jen kravky vesničanů anebo koníka zapř
 Huncaga i Plavček se podvolili bez jediného slova.
 
 Potom se rozloučili a všichni tři zamířili lesní stezkou dolů ke Klenovci.
+
+</section>

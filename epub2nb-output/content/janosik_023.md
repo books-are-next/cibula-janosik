@@ -3,6 +3,8 @@ title: '18'
 contentType: prose
 ---
 
+<section>
+
 Na nějaký čas jako by se pod Jánošíkem a jeho družinou slehla země. Stáhli se do neprostupných lesů Kysuc, do svých skrýší v horách při moravské hranici. Zastavili se u Koňúcha, navštívili své pomocníky na salaších a odlehlých samotách, u Rafaje doplnili zásoby střeliva a ukryli je na tajných místech v horách, setkali se s oběma bratry Šútkovými v Krásném.
 
 Hrabě Löwenburg nařídil tou dobou v Terchové několik dalších prohlídek, ale bezvýsledně. Hajduci pátrali aspoň po nějaké usvědčující kořisti, která by dokázala, že Terchované ukrývali zbojníky, ale nenašlo se nic, ani jediný prstýnek. Zbavil vzpurného oščadnického rychtáře úřadu pro neposlušnost, ale dosáhl jen toho, že Oščadnica byla bez rychtáře: jmenoval nástupce, ale nikdo nechtěl úřad přijmout, vymlouvali se na vysoký věk, na nemoci, nebo se tvářili, že je to nad jejich síly, a našli se i takoví, kteří odmítli bez vysvětlení a bez udání důvodu, zkrátka prohlásili, že rychtáře dělat nechtějí a nebudou. Několik jich zeměpán vsadil na pár dní do vězení, ale nic tím nezměnil, nepomohly tresty ani sliby. Nezbylo nic jiného než povolat starého rychtáře a vrátit úřad do jeho rukou. Toho dne se celá Oščadnica radovala a veselila jako o velikém svátku.
@@ -280,3 +282,5 @@ Rozloučili se teprve po dlouhé chvíli. Když odcházeli zpátky k lesu, svě
 „Vyřídíme to,“ odpověděl Jánošík. Zamávali jim a zmizeli v lese. Vzali si z houští karabiny a pomalu se vraceli k salaši. Jánošík byl zamyšlený a Plavček ho nechtěl rušit. V dálce za nimi bylo slyšet zpěv dívčích hlasů. Plavčekovi připadalo, že zní o poznání veseleji než před chvílí.
 
 Nazítří ráno vyrazili horní chlapci k horám, které se zdvíhaly na východě. Koně rozdali ve Važci a ve Štrbě a zamířili ke Králově holi.
+
+</section>

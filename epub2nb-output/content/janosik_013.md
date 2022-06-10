@@ -3,6 +3,8 @@ title: '8'
 contentType: prose
 ---
 
+<section>
+
 Na nízkém návrší poblíž lesa hoří oheň. Večerní nebe je plné hvězd. Kolem ohně posedávají nebo leží v trávě unavení muži a mlčky se dívají do plamenů. Občas některý z nich vstane, vezme náruč suchého klestí a přihodí ji do ohně. Dohasínající plameny znovu vyšlehnou, dřevo zapraská, k temnému nebi vyletí roj jisker a ozáří skupiny rozložitých buků. Na nejbližších keřích svítí zelené a bílé plátěné košile. Muži jsou většinou vysvlečeni do pasu, suší promočené haleny kolem ohně a odpočívají. Čas od času zacinkají ze tmy postroje koní.
 
 Kurucové mají za sebou těžký den. Od svítání do soumraku se jezdci i pěší brodili rozlitými vodami Hronu. Za rozbřesku narazili na velký zástup císařských jezdců. Překvapili je ve chvíli, kdy ještě rozespalí sedlali koně, zaútočili na ně a pronásledovali je lukami, ale byla to past. Zeman Očkay, který oddílu velel, přikázal ustoupit. Blízko byl spásný les, v němž se mohli ukrýt, ale zeman rozkázal sestoupit k řece. Hronem šla velká voda, dostali se na mokřadiska a zatopené louky. Pěší postupovali ve vodě až po pás a po ramena, kosy a karabiny drželi nad hlavou, koně se bořili v bahně. Chtěli se dostat zpátky k lesu, ale bylo už pozdě, císařští obsadili návrší a nepustili je; museli se skrývat v sítinách. Ke všemu se ještě spustil déšť a voda začala stoupat, byla to hnědá a kalná voda, která strhávala zesláblé a podrážela nohy lidem i koním. Teprve pozdě odpoledne unikli z obklíčení a lesními stezkami se dostali do odlehlé doliny k poloprázdné vesnici a zemanské tvrzi.
@@ -176,3 +178,5 @@ Udělal krok kupředu, zvedl pistoli, otřel ji rukávem a zastrčil ji za opas
 Oheň pomalu a nezadržitelně dohasínal. Občas ještě kus dřeva zahořel jasným plamenem, ale jen na malou chvíli, pak už jen řeřavěl a slabě žhnul do tmy.
 
 Jánošíka napadlo, že takhle vydechovalo teplo z ovcí doma na kopanicích, když je otec vzal v třeskuté zimě na noc do světnice, aby svou blízkostí zahřály děti.
+
+</section>

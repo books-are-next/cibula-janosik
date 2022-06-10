@@ -3,6 +3,8 @@ title: '9'
 contentType: prose
 ---
 
+<section>
+
 Když svítalo, z ohniště stoupal ještě tenký proužek kouře. Muži byli zvyklí vstávat brzo; byl to návyk z nepřetržitých bojů i z ustavičného harcování, a vlastně i z dob, kdy pracovali od rozbřesku do soumraku na polích. Slunce dosud nevyšlo, nad zalesněnými hřbety kopců bylo nebe světle zelené a pak slabě modré. Napojili koně v potoce a pomalu stoupali svahem k zemanské tvrzi. Těžká dřevěná brána byla ještě zavřená. Stáli opodál a trpělivě čekali. Někde ve vsi kokrhal kohout, jako by nikdy neměl přestat. Ze šindelových střech stoupala bílá pára.
 
 Veřeje zaskřípěly a padací most narazil na dubové trámy. Brána se otevřela a objevil se správce, za ním hlouček drábů. Správce zůstal stát uprostřed mostu.
@@ -166,3 +168,5 @@ Jánošík pobídl patami koně a pomalu se vydal podle vody směrem na západ.
 Jánošík se v sedle ani nepohnul, hlavu měl skloněnou.
 
 „Do Terchové. Kam jinam?“
+
+</section>

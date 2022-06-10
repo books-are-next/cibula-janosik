@@ -3,6 +3,8 @@ title: Doslov
 contentType: prose
 ---
 
+<section>
+
 Skutečné osudy Juraje Jánošíka, slovenského lidového hrdiny ze začátku 18. století, se leckde liší od běžných představ, jež jsme si o slavném kapitánovi horních chlapců učinili.
 
 Lidová tradice nacházela v Jánošíkovi vyjádření touhy po spravedlivějším životě a k odporu k nemilosrdné vrchnosti; proto fantazie lidových vypravěčů obdařovala zbojníky nadlidskou silou, nezranitelností a četnými dalšími pohádkovými motivy. Naproti tomu některá románová zpracování Jánošíkových osudů, zejména v 19. století, se pokoušela potlačit význam Jánošíka jako lidového hrdiny a opředla ho nánosem nových motivů, jež byly často smyslu Jánošíkova vystoupení cizí, nebo mu byly zcela protichůdné.
@@ -106,3 +108,5 @@ Vzácné a cenné doklady shromáždili ve svých studiích Ivan Houdek, který
 [1](./resources/undefined) Sám název kuruc je mnohem starší: pochází z r. 1514 a znamená původně křižák. Kurucové byli tehdy rolníci, kteří měli bojovat proti Turkům; název byl přenesen i na pozdější povstalce.
 
 [2](./resources/undefined) Portrét Jana Jakuba Löwenburga je v Liptovském muzeu v Ružomberku.
+
+</section>

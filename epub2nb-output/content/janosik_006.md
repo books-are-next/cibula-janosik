@@ -3,6 +3,8 @@ title: '1'
 contentType: prose
 ---
 
+<section>
+
 Byl studený den na konci ledna. Cestou od Varína spěchali tři lidé, dva muži a žena. Muži měli na hlavách huňaté beranice, ženě bylo vidět v zachumlaném šátku jen oči. Dlouhé ovčí kožichy jim sahaly téměř až na zmrzlý, větrem udusaný sníh. Říčka pod cestou byla zavátá. Muž, který šel poslední, nesl v náručí chlupatou ovčí kožešinu a opatrně ji tiskl k prsům. Žena byla drobná, o hlavu menší než oba muži. Sníh pod nohama skřípal a vrzal při každém kroku.
 
 Muž s kožešinou v náručí zdvihl občas hlavu a letmo pohlédl k zasněženým vrchům. Když ráno vycházeli ještě za tmy z Terchové, svítily na nebi hvězdy; třpytily se a jiskřily v mrazivé noci, zdály se téměř na dosah. Muži věděli, že je to předzvěst sněhu, že se v nejbližších dnech zkazí počasí; pospíchali, aby byli co nejdřív zpátky, v teple a bezpečí domova.
@@ -104,3 +106,5 @@ Muž pomalu položil kožešinový uzel na stůl a rozvázal cípy. V šátku 
 Stáhl z ramenou kožešinu a odhodil ji na lavici. Ledové zmrazky slabě zazvonily. Muž se obrátil k peci, vytáhl z ohniště tenké polínko a sfoukl z něho drobné plamínky. Potom přistoupil ke dveřím a zuhelnatělým koncem dřeva napsal pomalu a těžce na rozpraskaný trám:
 
 JURAJ JÁNOŠÍK – 1688.
+
+</section>
