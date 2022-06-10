@@ -3,6 +3,8 @@ title: '7'
 contentType: prose
 ---
 
+<section>
+
 V zámecké síni bylo ticho. Slunce zapadalo a poslední šikmé paprsky pronikaly oknem. Dva stříbrné poháry na stole se leskly.
 
 Hrabě Löwenburg se napil, otřel si ústa hedvábným šátkem a dlouze si povzdechl. Potom postavil pohár rázně na stůl.
@@ -190,3 +192,5 @@ Hrabě se znovu zasmál. Přistoupil ke stolu a nalil pomalu víno do stříbrn
 „Na zdraví Jeho císařské Milosti!“
 
 Napili se.
+
+</section>

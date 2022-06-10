@@ -3,6 +3,8 @@ title: '5'
 contentType: prose
 ---
 
+<section>
+
 Vůz nadskakoval po kamenité cestě. Ďurko se musel držet postranic, aby nespadl. Myslel na matku, která zase ležela nemocná, na panském prochladla a už večer měla horkost. A malý Adam právě začíná běhat. Pomalu se blížili k Tepličce. Vedle Ďurka stál Matěj a přidržoval rukou velké hroudy sýra, zabalené v lopuchových listech a naskládané na slámě. Na kozlíku seděl rychtář Chalupka a Matějův otec s opratí v ruce.
 
 Vyjeli z Terchové ještě za tmy, teď už stálo slunce vysoko nad obzorem a pálilo hned od rána. Ďurko pozoroval dva hajduky, kteří na koních doprovázeli vůz. Sedla vrzala, koně byli pokryti prachem. Ani hajdukům nebylo do řeči, přijeli do Terchové už zvečera a dlouho seděli v krčmě, byli nevyspalí a podráždění. Jeden z nich zvedl hlavu, pobodl koně a přijel blíž k vozu.
@@ -314,3 +316,5 @@ Vzpomněl si na slova Matějova otce:
 A viděl před sebou tvář hraběte Löwenburga, širokou a masitou bradu s dvěma ostrými rýhami podle úst, pichlavé a zlé oči, které pátravě odhadují nehybný zástup.
 
 Někde daleko v horách se znovu ozval hrom.
+
+</section>

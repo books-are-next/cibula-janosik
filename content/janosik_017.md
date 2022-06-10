@@ -3,6 +3,8 @@ title: '12'
 contentType: prose
 ---
 
+<section>
+
 Tak se Juraj Jánošík vrátil znovu domů, na terchovské kopanice. Otec ho přivítal se slzami v očích, objal ho a Juraj si všiml, jak zešedivěl a pohubl. Matka byla udřená, zestárla, ale ve tváři mela radost, že je syn doma.
 
 Začal zase hospodařit s Jankem, oba mladší jim pomáhali. Políčko za chalupou bylo tak malé, že by je dítě přehodilo kamenem, ale zarůstalo bez přestání trávou, protože na něm mohli pracovat jen v noci nebo když pršelo a nešli na robotu. Pět dní v týdnu se plahočili od svítání do soumraku na panském, šestý den káceli a klučili v lese. A jestliže se dřív žilo těžko, teď se žilo ještě hůř.
@@ -216,3 +218,5 @@ Uhorčík se rozesmál.
 Převrátil se na záda, zavřel oči a v mžiku začal chrápat. Jánošík ležel s rukama pod hlavou a díval se do tratoliště hvězd. Myslel na otce, na matku, na lískové pruty v drábově ruce tehdy na mostku v Terchové, na to nadšení, s nímž táhl po boku kuruců do boje. Vzpomínal na Bytču a na Matěje a stále znovu se mu vracela myšlenka na umírajícího Oravce, viděl ho před sebou a slyšel jeho poslední slova. Vzpomněl si na padající zdi Strečna, tenkrát byl ještě dítě, ale nikdy na ten pohled nezapomněl, a hned potom si vybavil odulou tvář s pichlavýma očkama, tvář Jana Jakuba Löwenburga. Mávl rukou, jako by chtěl zahnat obtížnou mouchu.
 
 Na východě začaly hvězdy pomalu blednout.
+
+</section>

@@ -3,6 +3,8 @@ title: '20'
 contentType: prose
 ---
 
+<section>
+
 Seděli v trávě nad úzkým potokem, který padal po kamení dolů k cestě. Kolem dokola se zdvíhaly strmé lesnaté stráně Kremnických hor, strže a rokle, mezi nimi skály. Jánošík pozoroval jestřába, který kroužil nad protějším hřebenem. Buď vyhlížel kořist, nebo tam měl někde v nepřístupných skálách hnízdo.
 
 Z myšlenek ho vytrhl náhlý pohyb. Ondruš vstal a přistoupil blíž k malé skalce. Chvíli se díval, pak dal znamení rukou.
@@ -364,3 +366,5 @@ Jánošík neodpověděl. Svlékl si halenu, pověsil ji na hlaveň karabiny a 
 „Střelili ho rovnou do prsou,“ řekl Jánošík. Podíval se Vrábelovi do tváře. Nemohl uvěřit, že už nikdy nepromluví, že je opravdu mrtev. „Tak se přece jen trefili,“ zašeptal smutně Moravčík.
 
 Našli malou mýtinu mezi stromy a pohřbili Vrábela pod mladým javorem.
+
+</section>

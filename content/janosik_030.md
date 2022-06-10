@@ -3,6 +3,8 @@ title: '25'
 contentType: prose
 ---
 
+<section>
+
 Nad važeckými loukami se rychle stmívalo. V kolibě bylo ticho, valaši seděli v pološeru na smrkovém chvojí kolem malého ohně a dívali se mlčky do plamenů. Z velkého kotle, zavěšeného na silné bukové větvi nad ohněm, stoupala voňavá pára a mísila se s kouřem. Valaši mlčeli, nikomu nebylo do řeči. Z ohrady se občas ozvala některá ovce, slabě zacinkal spěžový zvonec, z nedalekých vrbin zašuměl potok. Biely Váh byl tady pod horami ještě malou, i když divokou stružkou, teprve dole v údolí začínal nabírat na síle i na mohutnosti.
 
 „Co teď s námi bude,“ zeptal se jeden z valachů. „Kdo nás ochrání proti křivdám?“
@@ -38,3 +40,5 @@ Valaši vyběhli z koliby.
 Daleko a vysoko nad údolím, až tam, kde se zdvíhaly k nočnímu nebi mohutné stíny hor, planul na samém vrcholu Královy hole vzdálený oheň.
 
 Vypadal na tu dálku jako malý a sotva znatelný červený bod, ale oblaka nad vrcholem rozlévala jeho zář do šířky jako vzdálenou a rostoucí povodeň.
+
+</section>

@@ -3,6 +3,8 @@ title: '22'
 contentType: prose
 ---
 
+<section>
+
 V Klenovecké krčmě bylo rušno. Na dubových lavicích podle srou­bených stěn seděli Klenovčané, chlapi i ženské, uprostřed se tancovalo, zpívali všichni. Z celé té vřavy vynikaly Mravcovy gajdy, vřeštěly a jásaly a zase jen tence a tklivě šeptaly, jako by chtěly vyloudit srdce z těla.
 
 Jánošík tancoval s malou Klenovčankou, v rohu se kýval jako medvěd Huncaga, Plavček se celý večer nehnul ani na krok od černovlasé Mravcovy dcery. Mihl se tu i Koňúchův švagr. Jánošíka tady všichni znali už od loňské zimy, kdy pracoval jako pacholek u Kovalčíka, i z občasných návštěv, které byly vždycky spojeny s muzikou a veselím. Měli ho rádi a počítali ho vlastně už tak trochu mezi sebe.
@@ -286,3 +288,5 @@ Uhorčík zvážněl.
 „Ty chceš jít už teď? Na noc? To se budeš trmácet potmě až do Polhory?“
 
 „Kdo mluví o Polhoře,“ rozesmál se Jánošík. „Seber gajdy a do krčmy! Musíme dokončit ten večer, co jsme ho tak pěkně začali!“
+
+</section>

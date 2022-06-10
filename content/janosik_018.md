@@ -3,6 +3,8 @@ title: '13'
 contentType: prose
 ---
 
+<section>
+
 Hladina váhu se leskla ve slunci. Voda ubíhala rychle, občas jen krátce zašuměla a zatřpytila se v bílé pěně; dál proti proudu se však řeka stáčela v ostrém oblouku mezi skálami a temný hukot prozrazoval blízkost peřejí.
 
 V křovinách na nízké skále stáli dva muži v bílých soukenných nohavicích a pozorovali cestu, která tu vedla těsně nad řekou: jeden vysoký a štíhlý, druhý podsaditý, skoro zavalitý. V houští za nimi seděli v trávě a na kamenech další, byl jich celý houf.
@@ -226,3 +228,5 @@ Rozestoupili se a krok za krokem se blížili ke koním. Každý si vybral jedn
 Konečně byl každý na koňském hřbetě. Ondruš přivedl z úkrytu oba Šipošovy koně s balíky sukna a vzal si od Juraje malou kobylku. Byla tak nízká, že se mu nohy málem dotýkaly trávy.
 
 Zamávali na baču a zmizeli v protějším lese. Pomalu se začalo stmívat.
+
+</section>

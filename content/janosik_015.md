@@ -3,6 +3,8 @@ title: '10'
 contentType: prose
 ---
 
+<section>
+
 Juraj se vrátil domu do chalupy pod Púpovem. Všechno bylo jako kdysi, a přece se všechno změnilo. Jestliže mu připadal život na kopanicích před kuruckou vojnou těžký, teď se mu zdál k nesnesení. Nemohl si zvyknout. Chodil zase na panské, hospodařil s otcem a se starším bratrem Jankem, Adam a Martin pásli ovce a většinu času žili na salaších. Matka se starala o chalupu, kozu a pár ovcí. Těžkými motykami obdělávali malé políčko nad chalupou, ale horské lijáky splachovaly půdu do údolí a obnažovaly nové a nové kamení a skálu. S podzimkem pracoval Juraj v lese; koník, kterého si přivedl z vojny, jim pomáhal tahat dřevo. Juraj býval zamlklejší než dřív; marně se ho matka vyptávala, co ho trápí, býval zadumaný, myšlenkami někde daleko.
 
 Občas mu Matěj pověděl nové zprávy, které přinesli terchovští radní z Tepličky, jindy vyslechl ve vsi u Rajčana vyprávění potulných vysloužilců, zběhů a uprchlíků. A nebyly to dobré zprávy. Rákoczi se marně snažil zbubnovat nové vojsko, psal na všechny strany zoufalé listy a ve všech těch dopisech byly otázky, plné bolesti a rozčarování: co udělat, aby se Slováci znovu rozhýbali, znovu rozkřičeli? Listy zůstávaly bez odpovědi, nebo mu odpovídali opatrně, vyhýbavě a s vytáčkami.
@@ -274,3 +276,5 @@ Strážný na chodbě sebou trhl.
 Jánošík neodpověděl. Postavil prázdný džber na stůl a přecházel hněvivě světnicí sem a tam, od kamen ke stolu, od stolu ke kamnům.
 
 Strážný seděl na lavici a vyřezával dřevěného koně. Tiše si při tom hvízdal.
+
+</section>

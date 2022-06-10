@@ -3,6 +3,8 @@ title: '4'
 contentType: prose
 ---
 
+<section>
+
 Začínalo se šeřit. Po cestě od Belé se vraceli domů do Terchové první robotníci. Trousili se po skupinkách, šli mlčky, těžkým a unaveným krokem. Až z té dálky bylo slyšet hluboký mužský hlas: jeden z mužů si zpíval a jeho zpěv se nesl po kopanicích, odrážel se od travnatých svahů a vracel se ozvěnou až odněkud od Púpova. Byla to táhlá, smutná písnička a zněla jako nářek.
 
 Ďurko seděl s Matějem uprostřed vrbové houštiny pod Terchovou. Chlapci z dědiny a z kopanic se tu scházívali často, tady se cítili volní, v rozsáhlé spleti vrbin a olší byli jako v jiném, tajemném světě. Jen oni znali sotva znatelné pěšinky, které se ztrácely v kořání stromů a v propletených, neprostupných keřích. Měli úkryty v korunách vrb i tajná doupata mezi kořeny a prastarými kmeny olší, pod nimiž tiše žbluňkala voda Varínky. Nespočetná ramena říčky se klikatila každým rokem jinak a jinudy, tu a tam se vytvořily tůňky s průzračně čistou vodou. Kdo se tady nevyznal, lehko by zabloudil. Dospělí čas od času chodili k vrbinám na pruty a pletli z nich za dlouhých večerů košíky, ale odvažovali se vždycky jen na okraj, dál už bylo jen hájemství terchovských kluků.
@@ -198,3 +200,5 @@ Chlapi se pomalu rozcházeli, ještě na cestě hlučeli a vykřikovali.
 „Za komíny chtějí dávky! Ale v Terchové a na kopanicích není přece ani jeden komín!“
 
 Spatřil ve stráni obrovskou korunu lípy a pod ní přikrčenou chalupu. Byl doma.
+
+</section>

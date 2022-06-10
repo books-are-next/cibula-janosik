@@ -3,6 +3,8 @@ title: '24'
 contentType: prose
 ---
 
+<section>
+
 Psal se šestnáctý březen roku 1713.
 
 Na horách kolem Liptovského Mikuláše ležel ještě sníh, ale v údolí už bylo jaro. Louky kvetly, Váhem se valila velká jarní voda z tajících sněhů, od Hrádku pluly první vory.
@@ -594,3 +596,5 @@ Teprve na mučení se Martin Mravec přiznal, že se jmenuje Tomáš Uhorčík. 
 Rozsudek byl vykonán den nato, 21. dubna 1713. O několik dnů později byl chycen a na stejném místě popraven i Huncaga.
 
 Pohřbili je oba nedaleko Juraje Jánošíka.
+
+</section>

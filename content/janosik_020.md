@@ -3,6 +3,8 @@ title: '15'
 contentType: prose
 ---
 
+<section>
+
 Té zimy napadl sníh brzo a už zůstal ležet. Mrazy přišly v polovině listopadu, od Kysuc a z polské strany foukal bez přestání studený vítr.
 
 Zima uhodila na celý kraj s nečekanou silou. V dědinách byl hlad a k Žilině táhly den co den zástupy žebráků a hladových lidí.
@@ -238,3 +240,5 @@ Hrabě byl na pokraji mrtvičného záchvatu.
 Vběhl zpátky do síně a jako v horečce si nalil do stříbrné číše víno. Ruka se mu třásla.
 
 Zdvihl číši a v černé tmě za oknem spatřil vysoko v horách další ohně.
+
+</section>

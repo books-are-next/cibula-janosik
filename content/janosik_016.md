@@ -3,6 +3,8 @@ title: '11'
 contentType: prose
 ---
 
+<section>
+
 Několik dnů hlídal Juraj zase na věži a ve strážnici u brány.
 
 Když končil jednoho deštivého odpoledne vartu u hlavní brány, nařídil komandant prohlídku zbraní. Všichni věděli, co bude, velitel musel vždycky najít nějakou závadu stůj co stůj. U staré pušky, kterou už dávno nikdo nepoužíval, objevil maličko naštípnutou pažbu. Nejdřív vyváděl, přivolával na vojáky hromy a blesky, vyhrožoval temnicí; potom rozkázal, že puška musí okamžitě ke kováři. Jánošík měl právě po stráži a přihlásil se, že pušku odnese. Zajímal ho kovář, o kterém vyprávěl Antoš.
@@ -328,3 +330,5 @@ Mezi prvními stromy se zastavil a pohlédl zpátky k zámku. Zdvíhal se prot
 „Ať dostane dobrou ženu,“ řekl rozjařeně a rozesmál se, když uviděl Jankův nechápavý obličej.
 
 „Toho si nevšímej,“ řekl vesele a oba se rozběhli po cestě k Bytči.
+
+</section>

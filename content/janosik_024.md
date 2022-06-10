@@ -3,6 +3,8 @@ title: '19'
 contentType: prose
 ---
 
+<section>
+
 Byl žhavý letní den uprostřed srpna. Na zámku jeho milosti Jana Jakuba Löwenburga v Tepličce zasedal vrchnostenský soud. Za dlouhým stolem v čele síně se potilo několik mužů v bílých parukách. Uprostřed soudce, přizvaný až z Trenčína, po jeho boku žalobce, samotný hrabě Jan Jakub Löwenburg, z druhé strany obhájce, vybraný osobně zeměpánem z řad zámeckých úředníků, a písař. Na lavici před stolem seděl terchovský rychtář Chalupka, vedle něho Adam Dykoš a druhý terchovský radní. Za nimi krčmář Rajčan, Jakub Merjad a mlynář. Až na samém konci síně sledovali jednání rychtářové všech obcí strečňanského panství. Podle stěn stáli hajduci.
 
 Soud svolaný Janem Jakubem Löwenburgem projednával na základě oznámení drába Imricha Medveckého Löwenburgovu žalobu proti rychtáři, radním a dalším obyvatelům Terchové.
@@ -204,3 +206,5 @@ Toto ustanovení je povinnen každý rychtář strečňanského panství oznámi
 Pohlédl na Löwenburga. Hrabě sotva znatelně přikývl.
 
 Soudce si spokojeně vydechl.
+
+</section>

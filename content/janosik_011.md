@@ -3,6 +3,8 @@ title: '6'
 contentType: prose
 ---
 
+<section>
+
 Nazítří šel Ďurko na panské místo otce. Vrátil se až za soumraku, ruce ho pálily, dlaně měl plné puchýřů od srpu, nemohl ani sevřít ruku.
 
 Otec ležel na lavici u pece, matka mu přikládala na rozbitá záda celý den obklady, starala se o ročního Adámka, který lezl po udusané podlaze a neustále se někomu pletl pod nohama. Polehávala, ale na nemoc nebyl čas, přemáhala se, jak mohla.
@@ -176,3 +178,5 @@ Jednou zjara na začátku března se rozloučil s otcem, objal matku, vzal si d
 Toho dne se přihlásili nedaleko Strečna mezi kuruce.
 
 Psal se rok 1707 a Juraji Jánošíkovi bylo devatenáct let.
+
+</section>
