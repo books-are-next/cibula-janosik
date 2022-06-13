@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-janosik-57aa4ac",
-  "revision": "57aa4ac",
+  "identifier": "cibula-janosik-730ceee",
+  "revision": "730ceee",
   "readingOrder": [
     "promo.html",
     "janosik_005.html",
@@ -42,8 +42,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:53:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948381048
+    "date": "Mon Jun 13 2022 21:52:59 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157179002
   },
   "documents": [
     {
@@ -621,9 +621,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 93,
-      "chars": 617,
-      "ideas": 9,
+      "words": 123,
+      "chars": 777,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "janosik_032.html",
@@ -641,9 +641,9 @@
   ],
   "totals": {
     "all": {
-      "words": 62880,
-      "chars": 376979,
-      "ideas": 3021
+      "words": 62910,
+      "chars": 377139,
+      "ideas": 3029
     },
     "chapters": {
       "words": 62784,
