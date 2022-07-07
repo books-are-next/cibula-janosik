@@ -44,7 +44,7 @@ readingOrder:
   - janosik_030.html
   - janosik_031.html
   - janosik_032.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
