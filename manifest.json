@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-janosik-97cd648",
-  "revision": "97cd648",
+  "identifier": "cibula-janosik-bc5aa5f",
+  "revision": "bc5aa5f",
   "readingOrder": [
     "promo.html",
     "janosik_005.html",
@@ -40,11 +40,11 @@
     "janosik_030.html",
     "janosik_031.html",
     "janosik_032.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 09:57:47 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655978267994
+    "date": "Thu Jul 07 2022 08:18:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657181933514
   },
   "documents": [
     {
@@ -608,7 +608,7 @@
       "role": "chapter",
       "order": 28,
       "prev": "janosik_031.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -621,11 +621,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 141,
-      "chars": 921,
+      "chars": 920,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "janosik_032.html",
       "next": null,
@@ -643,7 +643,7 @@
   "totals": {
     "all": {
       "words": 62930,
-      "chars": 377294,
+      "chars": 377293,
       "ideas": 3032
     },
     "chapters": {
