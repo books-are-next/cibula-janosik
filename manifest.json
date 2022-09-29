@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-janosik-daa3285",
-  "revision": "daa3285",
+  "identifier": "cibula-janosik-cd90632",
+  "revision": "cd90632",
   "readingOrder": [
     "promo.html",
     "janosik_005.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:41:18 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414478382
+    "date": "Thu Sep 29 2022 21:20:01 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486401132
   },
   "documents": [
     {
@@ -583,7 +583,7 @@
       "title": "Doslov",
       "file": "janosik_031.html",
       "words": 3197,
-      "chars": 21085,
+      "chars": 21087,
       "ideas": 52,
       "role": "chapter",
       "order": 27,
@@ -643,12 +643,12 @@
   "totals": {
     "all": {
       "words": 62930,
-      "chars": 377294,
+      "chars": 377296,
       "ideas": 3032
     },
     "chapters": {
       "words": 62784,
-      "chars": 376342,
+      "chars": 376344,
       "ideas": 3010
     }
   }
