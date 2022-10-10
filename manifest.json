@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-janosik-a0ae457",
-  "revision": "a0ae457",
+  "identifier": "cibula-janosik-7c510d5",
+  "revision": "7c510d5",
   "readingOrder": [
     "promo.html",
     "janosik_005.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:01:52 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151312082
+    "date": "Mon Oct 10 2022 15:53:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417221859
   },
   "documents": [
     {
@@ -623,7 +623,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 138,
-      "chars": 921,
+      "chars": 922,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -643,7 +643,7 @@
   "totals": {
     "all": {
       "words": 62927,
-      "chars": 377296,
+      "chars": 377297,
       "ideas": 3029
     },
     "chapters": {
