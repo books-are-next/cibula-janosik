@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "cibula-janosik-7c510d5",
-  "revision": "7c510d5",
+  "identifier": "cibula-janosik-ed316fc",
+  "revision": "ed316fc",
   "readingOrder": [
     "promo.html",
     "janosik_005.html",
@@ -43,8 +43,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:53:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417221859
+    "date": "Fri Oct 21 2022 11:28:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351697682
   },
   "documents": [
     {
